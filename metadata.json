@@ -1,0 +1,6 @@
+{
+  "name": "Aetheris Academic Intelligence",
+  "description": "Executive student performance, batch analytics, weak-topic remediation, and admin-governed parent report portal supporting Excel, CSV, and PDF test and attendance data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
